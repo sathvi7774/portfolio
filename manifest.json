@@ -1,0 +1,16 @@
+{
+  "name": "Adigoppula Sathvik — Portfolio",
+  "short_name": "Sathvik",
+  "description": "Portfolio of Adigoppula Sathvik — BCA student and frontend developer.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#F7F7F5",
+  "theme_color": "#3B5BFF",
+  "icons": [
+    {
+      "src": "assets/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

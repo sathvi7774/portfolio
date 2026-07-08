@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sathvik-portfolio.example.com/sitemap.xml
